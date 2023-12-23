@@ -1,4 +1,8 @@
 {
+    "name": "Minoripad",
+    "vendorId": "0x1404",
+    "productId": "0x1404",
+    "lighting": "none",
     "matrix": {
         "rows": 1,
         "cols": 3
