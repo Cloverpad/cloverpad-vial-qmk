@@ -12,7 +12,7 @@
 /* Key Matrix Size */
 #define MATRIX_ROWS 1
 #define MATRIX_COLS 3
-#define DIRECT_PINS { { GP23, GP24, GP25 } }
+#define DIRECT_PINS { { GP25, GP24, GP23 } }
 
 /* Performance Settings */
 #define DEBOUNCE 1
