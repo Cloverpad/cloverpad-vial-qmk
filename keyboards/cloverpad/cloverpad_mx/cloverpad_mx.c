@@ -1,3 +1,3 @@
 /* SPDX-License-Identifier: GPL-3.0-only */
 
-#include "minoripad.h"
+#include "cloverpad_mx.h"

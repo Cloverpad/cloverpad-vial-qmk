@@ -3,11 +3,11 @@
 #pragma once
 
 /* USB Device Descriptor Parameters */
-#define VENDOR_ID       0xFEED
-#define PRODUCT_ID      0x0000
+#define VENDOR_ID       0x1404
+#define PRODUCT_ID      0x1404
 #define DEVICE_VER      0x0001
 #define MANUFACTURER    "Cloverpad"
-#define PRODUCT         "Minoripad"
+#define PRODUCT         "Cloverpad MX"
 
 /* Key Matrix Size */
 #define MATRIX_ROWS 1
